@@ -1,4 +1,6 @@
 # login_react_native
 
-uma tela de login feito com *React Native*
-<img src="WhatsAppImage2022-06-20at45501PM](https://user-images.githubusercontent.com/71097744/174670462-f71d491c-bd8f-4c4d-b323-fd9272fb459a.jpeg"/>
+
+<h2>uma tela de login feito com <a>React Native</a></h2>
+
+<img width="300" src="https://user-images.githubusercontent.com/71097744/174670462-f71d491c-bd8f-4c4d-b323-fd9272fb459a.jpeg"/>
